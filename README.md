@@ -3,3 +3,7 @@ This project utilizes  data set that was released by the American Community Surv
 
 #### Unemployment rate by Major
 ![chart](https://github.com/VishnuHSharma/Visualizing-earnings-based-on-major/blob/master/Major%20Unemployment_rate.png)
+
+
+#### Salary Distribution
+![chart](https://github.com/VishnuHSharma/Visualizing-earnings-based-on-major/blob/master/salary%20dist.png)
