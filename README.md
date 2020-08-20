@@ -7,3 +7,5 @@ This project utilizes  data set that was released by the American Community Surv
 
 #### Salary Distribution
 ![chart](https://github.com/VishnuHSharma/Visualizing-earnings-based-on-major/blob/master/salary%20dist.png)
+
+This is a histogram depicting the distributions of salaries in this dataset.
